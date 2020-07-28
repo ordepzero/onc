@@ -1,0 +1,617 @@
+Nome,Escola,Cidade,UF,Nota,Escore
+"",,,,,
+O U R O,,,,,
+André Barreto Moreira,Ari de Sa Cavalcante,Fortaleza,CE,83,"100,0"
+Davi Silva Nogueira Gomes,Colégio Teleyos,Fortaleza,CE,78,"93,95"
+João Pedro Barros Lima,Farias Brito,Fortaleza,CE,78,"93,95"
+Leonardo Joau,Colégio Integral,Salvador,BA,76,"91,54"
+Ulisses Ferreira de Sousa,Colégio Militar,Recife,PE,"75,8","91,30"
+Mário Antônio Nogueira Mansur Carvalho,Adalberto Valle,Manaus,AM,"75,3","90,70"
+Vinicius Azevedo dos Santos,Antares,Fortaleza,CE,75,"90,34"
+Nícolas Meira Sinott Lopes,Ari de Sa Cavalcante,Fortaleza,CE,75,"90,34"
+Vitor Daisuke Tamae,Objetivo Integrado,São Paulo,SP,75,"90,34"
+"",,,,,
+P R A T A,,,,,
+Jonathan Raniere Pereira de Oliveira,Colégio Master,Fortaleza,CE,74,"89,13"
+Breno Henrique Ribeiro Grossi,Colégio Bernoulli,Belo Horizonte,MG,74,"89,13"
+Pedro Souto Martins,Ari de Sa Cavalcante,Fortaleza,CE,"73,3","88,29"
+Victor Cambraia Nogueira de Oliveira,Farias Brito,Fortaleza,CE,73,"87,93"
+Rafael Jucá Pinheiro,7 de Setembro,Fortaleza,CE,"72,2","86,96"
+Dário Luís do Nascimento Magalhães,Ari de Sa Cavalcante,Fortaleza,CE,72,"86,72"
+Aron Simões Ferreira Maciel,Farias Brito,Fortaleza,CE,72,"86,72"
+João Francisco Shida,Colégio Bandeirantes,São Paulo,SP,72,"86,72"
+Lucas Silva Nogueira Gomes,Colégio Teleyos,Fortaleza,CE,"71,3","85,88"
+Geovane de Oliveira Coelho,Farias Brito,Fortaleza,CE,"70,5","84,92"
+Miriam Harumi Koga,Mater Amabilis,Guarulhos,SP,70,"84,32"
+André Filipe Diogo Castro,Ari de Sa Cavalcante,Fortaleza,CE,"69,5","83,71"
+Bruno de Melo Costa,Colégio Militar,Recife,PE,"68,7","82,75"
+Régis Miller Almeida da Costa,Ari de Sa Cavalcante,Fortaleza,CE,68,"81,91"
+Antônio Machado Filho,Ari de Sa Cavalcante,Fortaleza,CE,"67,3","81,06"
+João Victor de Holanda Rocha,Colégio Master,Fortaleza,CE,67,"80,70"
+Julio Benicio Oliveira Neto,Instituto Dom Barreto,Teresina,PI,67,"80,70"
+"",,,,,
+B R O N Z E,,,,,
+Gabriel Pereira de Oliveira Lima,Farias Brito,Fortaleza,CE,65,"78,29"
+Victor Almeida Ivo,Farias Brito,Fortaleza,CE,"64,3","77,45"
+Arthur Sampaio de Siqueira,Farias Brito,Fortaleza,CE,64,"77,09"
+Pietro de Camargo Palma,Colégio Bandeirantes,São Paulo,SP,64,"77,09"
+Pedro Pompeu de Sousa Brasil Carneiro,7 de Setembro,Fortaleza,CE,"63,5","76,49"
+Luca de Souza Pires,Ari de Sa Cavalcante,Fortaleza,CE,63,"75,88"
+Celso Renan Barbosa Soares Lima,Colégio Master,Fortaleza,CE,63,"75,88"
+Fernando Satoshi Sawada,Farias Brito,Fortaleza,CE,63,"75,88"
+Felipe Leitão Rosa Fernandes,Farias Brito,Fortaleza,CE,63,"75,88"
+Tiago Xavier Silva,Colégio Militar,Recife,PE,63,"75,88"
+"",,,,"75,88",
+Maria Clara da Costa Oliveira,Farias Brito,Fortaleza,CE,"62,3","75,04"
+Davi Jorge Vanni Saliba,Santo Agostinho,Belo Horizonte,MG,62,"74,68"
+Filipe José S. Rosa,Instituto Dom Barreto,Teresina,PI,62,"74,68"
+Elton Shinji Okuma Hayachiguti,Mater Amabilis,Guarulhos,SP,62,"74,68"
+Maria Thereza Moreira de Menezes,Cecilia Colégio Santa,Fortaleza,CE,"61,3","73,84"
+Lucas de Souza Albuquerque,Colégio Master,Fortaleza,CE,61,"73,47"
+Davi Bessa de Sousa,Farias Brito,Fortaleza,CE,61,"73,47"
+Victor Alexandre Cândido Athanasio,Objetivo Integrado,São Paulo,SP,61,"73,47"
+Isaac Martins Pontes,Ari de Sa Cavalcante,Fortaleza,CE,"60,3","72,63"
+Guilherme Magalhães Siqueira Menezes,Farias Brito,Fortaleza,CE,60,"72,27"
+Henrique Federico Fichera Araújo,Farias Brito,Fortaleza,CE,60,"72,27"
+Daniel Dias Barbosa,Col Exitus,Uberlandia,MG,60,"72,27"
+André Vítor Dal Bosco,Colégio Militar,Recife,PE,60,"72,27"
+Sérgio André Cristovão Nascimento,Colégio Bandeirantes,São Paulo,SP,60,"72,27"
+Caio Pessoa Cruz,7 de Setembro,Fortaleza,CE,"59,5","71,67"
+Isabella Farias Bezerra,Ari de Sa Cavalcante,Fortaleza,CE,59,"71,07"
+Luiz Eduardo Batista Mendes,Ari de Sa Cavalcante,Fortaleza,CE,59,"71,07"
+Gabrielle Bonella Rangel,Ari de Sa Cavalcante,Fortaleza,CE,59,"71,07"
+Victor Lívio Azevedo de Oliveira,Farias Brito,Fortaleza,CE,59,"71,07"
+Vítor Nogueira Santos,Farias Brito,Fortaleza,CE,59,"71,07"
+Vanessa Braga Soares,Farias Brito,Fortaleza,CE,"58,5","70,46"
+Brendon Diniz Borck,Farias Brito,Fortaleza,CE,58,"69,86"
+Maurício de Moura Lima,Grupo Genese de Ensino,Recife,PE,58,"69,86"
+"",,,,,
+M E N Ç Ã O    H O N R O S A,,,,,
+Léo Victor Cruz Vasconcelos,7 de Setembro,Fortaleza,CE,57,"68,66"
+Erik Bardini da Rosa,Farias Brito,Fortaleza,CE,57,"68,66"
+Artur Assis Amorim,Colégio Militar,Juiz de Fora,MG,57,"68,66"
+Marcelo Oliveira Esteves,Colégio Militar,Juiz de Fora,MG,57,"68,66"
+Pedro Henrique Carvalho Fontana,Objetivo Integrado,Mogi das Cruzes,SP,57,"68,66"
+Christian Massao Konishi,Termomecanica,Sao Bernardo do Campo,SP,57,"68,66"
+Carlos Alan Cruz Freitas,Ari de Sá Cavalcante,Fortaleza,CE,56,"67,45"
+Ana Beatriz Timbó de Oliveira,Colégio Master,Fortaleza,CE,56,"67,45"
+Luísa Macambira Noronha,Colégio Militar,Fortaleza,CE,56,"67,45"
+Bryan Diniz Borck,Farias Brito,Fortaleza,CE,56,"67,45"
+Nivaldo Mendonça Júnior,Farias Brito,Fortaleza,CE,56,"67,45"
+David Felipe Brochero Giraldo,Colégio Militar,Belo Horizonte,MG,56,"67,45"
+Pedro Henrique Freitas de Souza,Grupo Genese de Ensino,Recife,PE,56,"67,45"
+Gabriel Silva de Oliveira,Grupo Genese de Ensino,Recife,PE,56,"67,45"
+Lucas dos Anjos Dantas Teixeira,Objetivo Integrado,São Paulo,SP,56,"67,45"
+José Rúver Lima Herculano Neto,7 de Setembro,Fortaleza,CE,55,"66,25"
+Leonardo Gallissio Rodrigues,Villa Lobos,Amparo,SP,55,"66,25"
+Vinícius de Souza Miralhas,Termomecanica,Sao Bernardo do Campo,SP,55,"66,25"
+Gabriel Barbosa Paganini,Colégio Bandeirantes,São Paulo,SP,55,"66,25"
+Gabriel Gandra Prata Gonçalves,Ifes-Campus Vitoria,Vitoria,ES,54,"65,04"
+Felipe Guaña Teti,Colégio Santa Maria,Recife,PE,54,"65,04"
+Gabriel Fernandes Faustino,Termomecanica,Sao Bernardo do Campo,SP,54,"65,04"
+Felipe Sousa Bezerra Teles,Ari de Sa Cavalcante,Fortaleza,CE,53,"63,84"
+Vinícius Rodrigues de Freitas,Farias Brito,Fortaleza,CE,53,"63,84"
+"",,,,"63,84",
+Carlos Eduardo Barros Ferreira de Moraes,Colégio Motivo,Recife,PE,53,"63,84"
+Thiago Louro Fernandes,Colégio Vital Brazil,São Paulo,SP,53,"63,84"
+Roberto Mitsuaki Saito,Objetivo Integrado,São Paulo,SP,53,"63,84"
+Pedro Henrique Monteiro Tavares,Ari de Sa Cavalcante,Fortaleza,CE,52,"62,63"
+João Victor Rodrigues Menezes,Ari de Sa Cavalcante,Fortaleza,CE,52,"62,63"
+Jeffté Cunha de Morais,Farias Brito,Fortaleza,CE,52,"62,63"
+Sabrina Ellen de Souza Aquino,Farias Brito,Fortaleza,CE,52,"62,63"
+Igor Pinheiro Henriques de Araújo,Colégio Militar,Recife,PE,52,"62,63"
+Guilherme Lins de Araújo,Grupo Genese de Ensino,Recife,PE,52,"62,63"
+Kaio dos Santos Pimentel,C E Uniao de Professores,Vitoria,ES,51,"61,43"
+Mariana Oliveira Albano,7 de Setembro,Fortaleza,CE,50,"60,23"
+Vitor Gonçalves Costa,7 de Setembro,Fortaleza,CE,50,"60,23"
+Bruno Teixeira Gomes,Colégio Militar,Fortaleza,CE,50,"60,23"
+Thiago André Gomes Costa Pereira,Farias Brito,Fortaleza,CE,50,"60,23"
+Matheus Rocha do Nascimento,Farias Brito,Fortaleza,CE,50,"60,23"
+Breno Soares Gazal,Colégio Boa Viagem,Recife,PE,50,"60,23"
+João Victor Cinicio Cavalcanti,Colégio Santa Maria,Recife,PE,50,"60,23"
+Vinícius Cruz Vilaça,Grupo Genese de Ensino,Recife,PE,50,"60,23"
+Gabriel Kenji Ito,Objetivo Integrado,Mogi das Cruzes,SP,50,"60,23"
+Mauro Simas Neto,Colégio Bandeirantes,São Paulo,SP,50,"60,23"
+Diogo Rafael Bezerra Gomes,Instituto Federal de Alagoas,Maceio,AL,"49,5","59,62"
+Arthur Domingos de Oliveira,Seb Coc Maceió,Maceio,AL,"49,5","59,62"
+Lígia Oliveira Toscano de Melo,Ari de Sa Cavalcante,Fortaleza,CE,49,"59,02"
+Caio Emmanuel Soares Rocha,Farias Brito,Fortaleza,CE,49,"59,02"
+João Vitor Coutinho Fernandes,Paraíso Educacional,Juazeiro do Norte,CE,49,"59,02"
+Gustavo Viana Costa Teixeira,Santo Agostinho,Belo Horizonte,MG,49,"59,02"
+André Cheker Burihan,Singular Colégio,Santo Andre,SP,49,"59,02"
+Isadora Bitencourt Baesso,Colégio Militar,Juiz de Fora,MG,48,"57,82"
+Luiz Vinicius Moraes Furtado,Escola Popular Madre Maria Villac,Teresina,PI,48,"57,82"
+Hélcio Prado de Lima,Termomecanica,Sao Bernardo do Campo,SP,"47,5","57,21"
+Luana Albuquerque de Oliveira,Farias Brito,Fortaleza,CE,47,"56,61"
+Rina Chen Carvalho,Farias Brito,Fortaleza,CE,47,"56,61"
+Vitória Karoline de Lacerda Guedes da Silva,Paraíso Educacional,Juazeiro do Norte,CE,47,"56,61"
+Marcos Foloni,Farias Brito,Sobral,CE,47,"56,61"
+Gabriel Moraes de Oliveira,Ifes-Campus Vitoria,Vitoria,ES,47,"56,61"
+Victor Scofield Teixeira,Colégio Bernoulli,Belo Horizonte,MG,47,"56,61"
+Daniel Victor Augusto Fabrício,Farias Brito,Fortaleza,CE,46,"55,41"
+Santiago Soares Rocha,Ee Messias Pedreiro,Uberlandia,MG,46,"55,41"
+Douglas Vargas Flores,Colégio Dom Feliciano,Gravatai,RS,46,"55,41"
+Daniel Carvalho Dantas,Centro de Excelencia Master,Aracaju,SE,46,"55,41"
+Renzo Armando dos Santos Abensur,Objetivo Integrado,Mogi das Cruzes,SP,46,"55,41"
+Gabriel de Freitas Garcia,Termomecanica Colégio,Sao Bernardo do Campo,SP,46,"55,41"
+Talles Gabriel Castellar Barroso,Instituto Alpha Lumen,Sao Jose dos Campos,SP,46,"55,41"
+Lucas Koji Kobata,Colégio Vital Brazil,São Paulo,SP,46,"55,41"
+Ícaro Bezerra de Oliveira Gonçalves,7 de Setembro,Fortaleza,CE,45,"54,20"
+Victoria Maria de Araujo Ferreira Felix,Ari de Sa Cavalcante,Fortaleza,CE,45,"54,20"
+Diene Xie,Farias Brito,Fortaleza,CE,45,"54,20"
+Anderson Moreira Aquino,Paraíso Educacional,Juazeiro do Norte,CE,45,"54,20"
+Vinícius Ribeiro Rodrigues Camelo,Colégio Militar,Belo Horizonte,MG,45,"54,20"
+"",,,,"53,00",
+Marina Holanda Feitosa,Farias Brito,Fortaleza,CE,44,"53,00"
+Lucas Oliveira Zago,Colégio Simbios,Goiania,GO,44,"53,00"
+Pedro Nascimento Martins,Colégio Militar,Juiz de Fora,MG,44,"53,00"
+Cecília Chie Sakaguchi Barros,Colégio Militar,Recife,PE,44,"53,00"
+Malik Rodrigues Teixeira,Objetivo Granja Viana,Cotia,SP,44,"53,00"
+César Calil Dayrell Martins Lopes Baratto,COC - Unidade Alvares Cabral,Ribeirao Preto,SP,44,"53,00"
+João Pedro Nunes de Souza,Objetivo Unid Paz,São Paulo,SP,44,"53,00"
+Denise Fernandes de Morais,Paraíso Educacional,Juazeiro do Norte,CE,43,"51,79"
+Erick Vinicius Rebouças Cruz,Colégio Motivo,Recife,PE,43,"51,79"
+Lucas Adloff Cardoso Pinto,Imperatriz Leopoldina,São Paulo,SP,43,"51,79"
+Ian Henrique Cardoso Santos,Colégio Integral,Salvador,BA,42,"50,59"
+Vinicius Brito de Oliveira,Farias Brito,Fortaleza,CE,42,"50,59"
+Tadeu de Pádua da Silva,Colégio Bernoulli,Belo Horizonte,MG,42,"50,59"
+Felipe Iba Fontes,Objetivo Integrado,Mogi das Cruzes,SP,42,"50,59"
+Keyser Matheus Vasconcelos de Sousa,Ari de Sa Cavalcante,Fortaleza,CE,"41,5","50,00"
+"",,,,,
+D E M A I S    C L A S S I F I C A D O S,,,,,
+João Victor Omena Cardoso,Colégio Contato,Maceio,AL,,
+Ana Carolina Miranda Magalhães,7 de Setembro,Fortaleza,CE,,
+Larissa Monteiro Lopes,Farias Brito,Fortaleza,CE,,
+Luiz Alexandre Porto Castro Filho,Farias Brito,Fortaleza,CE,,
+Jaime Guilherme Loureiro Breda,Ifes-Campus Vitoria,Vitoria,ES,,
+Salomão Bruno dos Santos Brasil,E E I F M Tenente Rego Barros,Belem,PA,,
+Lavínia Moura Rodrigues da Rocha,Colégio Contato,Maceio,AL,,
+Joyce Lopes Rolim,Farias Brito,Fortaleza,CE,,
+Ludmila Silva da Cunha,Farias Brito,Fortaleza,CE,,
+Ana Júlia de Holanda Veloso,Farias Brito,Fortaleza,CE,,
+Lucas Patrocínio B Alves,Farias Brito,Fortaleza,CE,,
+Artur Schneider Trautenmuller,Escola Sesi Jundiaí,Anapolis,GO,,
+Matheus Leopoldo Horta,Colégio Militar,Juiz de Fora,MG,,
+Hugo Alves Cardoso,Colégio Boa Viagem Ltda,Recife,PE,,
+Sérgio Yoshimi Misu Júnior,Termomecanica,Sao Bernardo do Campo,SP,,
+Vinícius Tenório Braga Cavalcante Pinto,Instituto Federal de Alagoas,Maceio,AL,,
+Eric Arcanjo Bringel,Colégio Militar,Fortaleza,CE,,
+Samuel Henriques Tenório Sêco,Colégio Militar,Juiz de Fora,MG,,
+Raphael Nogueira do Amaral,Coluni - UFV,Vicosa,MG,,
+Débora Mendes Braun,Colégio Santa Maria,Recife,PE,,
+Camila Alves Novais de Jesus,Colégio Bandeirantes,São Paulo,SP,,
+Shannon de Oliveira Hunt,Colégio Boa Viagem Ltda,Recife,PE,,
+Arthur Casani Rech,Adalberto Valle,Manaus,AM,,
+Victor José Magalhães da Silva,7 de Setembro,Fortaleza,CE,,
+Sophia Moraes E Carvalho,Ari de Sa Cavalcante,Fortaleza,CE,,
+Fernando Degani Vazquez,Ari de Sa Cavalcante,Fortaleza,CE,,
+Renan Rêgo Pacheco,Colégio Master,Fortaleza,CE,,
+Matheus Leal Viana,Farias Brito,Fortaleza,CE,,
+Amanda Letícia Rocha de Souza,Farias Brito,Fortaleza,CE,,
+Pedro Mundim de Oliveira Ribeiro,Colégio Militar,Belo Horizonte,MG,,
+Melkzedeck Miranda,Coluni - UFV,Vicosa,MG,,
+Guilherme Paiva de Melo Maia,Centro de Educacao Integrada,Natal,RN,,
+"",,,,,
+Felipe Augusto Martins Pascutti,Mater Amabilis,Guarulhos,SP,,
+Beatriz Pantano dos Santos,Termomecanica,Sao Bernardo do Campo,SP,,
+Sofia Santi de Brito,Parque Ecologico Inst. Educ.,Indaiatuba,SP,,
+Breno Quessiê Barbosa de Lima,Ari de Sa Cavalcante,Fortaleza,CE,,
+Davi da Silva Cassiano,Ari de Sa Cavalcante,Fortaleza,CE,,
+João Pedro da Silva Lima,Colégio Salesiano Sao Jose,Natal,RN,,
+Bruno Vieira Sanches,Ari de Sa Cavalcante,Fortaleza,CE,,
+Victor Ehrich Carneiro de Medeiros,Colégio Master,Fortaleza,CE,,
+Samuel Cruz Fernandes,Colégio Bernoulli,Belo Horizonte,MG,,
+Ives Caero Vieira,Colégio Pre Universitario,Ilha Solteira,SP,,
+Ayrton da Silva Iseri,Objetivo - Unidade Alphaville,Santana de Parnaiba,SP,,
+Davi Reis Vieira de Souza,Ari de Sa Cavalcante,Fortaleza,CE,,
+Letícia Coêlho Barbosa,Farias Brito,Fortaleza,CE,,
+Mateus de Sousa Cavalcante,Farias Brito,Sobral,CE,,
+Lígia Viana de Araujo,Anbeas - Nsa Sra das Graças,Parnaiba,PI,,
+Lucas Antonio Jardim Pontes,Objetivo do Litoral Unid VI,Santos,SP,,
+Carlos Arthur Fernandes Sobreira,Ari de Sa Cavalcante,Fortaleza,CE,,
+Júlia Carvalho Mulatinho,Master,Fortaleza,CE,,
+Jadson Felipe dos Anjos Freitas,Instituto Federal de Alagoas,Palmeira dos Indios,AL,,
+Daniel Freitas de Oliveira,7 de Setembro,Fortaleza,CE,,
+Gabriel Freitas de Oliveira,7 de Setembro,Fortaleza,CE,,
+Aluisio Ribeiro Almeida E Souza,Antares Colégio,Fortaleza,CE,,
+Lucas Oliveira Saintrain,Ari de Sa Cavalcante,Fortaleza,CE,,
+Hely Cesar Prado Porto,Colégio Militar,Fortaleza,CE,,
+João Pedro Bandeira Belchior,Colégio Militar,Recife,PE,,
+Otávio Alencar Veras,Colégio Santa Maria,Recife,PE,,
+João Rodrigo Windisch Olenscki,Objetivo Integrado,São Paulo,SP,,
+Bruno Sena dos Santos,Ari de Sa Cavalcante,Fortaleza,CE,,
+Marco Antonio Farias Barbosa,Colégio de Aplicacao da UFPE,Recife,PE,,
+Daniel Damasceno Rocha,COC - Unidade Alvares Cabral,Ribeirao Preto,SP,,
+Moisés Conrado Marinho Eufrásio Filho,Farias Brito,Fortaleza,CE,,
+Isabela Barros David Rodrigues,Farias Brito,Fortaleza,CE,,
+Victor Hugo Oliveira Veloso,Farias Brito,Fortaleza,CE,,
+Lucas Reis Guimarães de Oliveira,Colégio Boa Viagem Ltda,Recife,PE,,
+Pedro Del Monaco Santos,Emilio Ribas -,Pindamonhangaba,SP,,
+Frederico Dalri Hailer,COC - Unidade Alvares Cabral,Ribeirao Preto,SP,,
+Igor Vinicius Soares Dias,Termomecanica,Sao Bernardo do Campo,SP,,
+Helânio Moreira Claudino,Ari de Sá Cavalcante,Fortaleza,CE,,
+Robson da Silva Pereira,Coluni - UFV,Vicosa,MG,,
+Bruno Wellington Moreira,Coluni - UFV,Vicosa,MG,,
+Lucas Hideo Maekawa,IFMS,Campo Grande,MS,,
+Felipe Arthur Eckert,Parque Ecologico Inst. Educ.,Indaiatuba,SP,,
+Ian Rossetto Costa,Singular Colégio,Santo Andre,SP,,
+Thiago Kenzo Nobusa,Termomecanica,Sao Bernardo do Campo,SP,,
+Pedro Igor Dourado Borges,Antares Colégio,Fortaleza,CE,,
+Francisco Rômulo Estevam da Silva,Farias Brito,Fortaleza,CE,,
+Marco Túlio Oliveira Camargos,Colégio Militar,Belo Horizonte,MG,,
+Giuliano Porciúncula Guedes,Colégio Santa Maria,Recife,PE,,
+Gustavo Toshio Yto de Souza,Centro de Educacao Integrada,Natal,RN,,
+"",,,,,
+André Guilherme Scheer Rahal Valverde,Objetivo Pompeia,São Paulo,SP,,
+Ana Paula Pires dos Santos,Ari de Sa Cavalcante,Fortaleza,CE,,
+Luciana Gonçalves Morais Petrola,Farias Brito,Fortaleza,CE,,
+Thácilla Siqueira Eugênio Nascimento,Farias Brito,Sobral,CE,,
+Amanda Rabelo Mendonça,Colégio Simbios,Goiania,GO,,
+Alice Cardoso Takahashi,Colégio Magnum Buritis,Belo Horizonte,MG,,
+Louis Hussein Patú Hazime,Colégio Santa Maria,Recife,PE,,
+Eduardo Figueirêdo Freire Andrade,Centro de Excelencia Master,Aracaju,SE,,
+Daniela Yukari Takumi,Objetivo Integrado,Mogi das Cruzes,SP,,
+Gustavo Hofmann de Freitas,Termomecanica,Sao Bernardo do Campo,SP,,
+Filipe Penna Cerávolo Soares,Poliedro Colégio,Sao Jose dos Campos,SP,,
+Lorena Hernandes da Silva Leme,Colégio Vital Brazil,São Paulo,SP,,
+Simon Tian Yu Wang,Objetivo Paulista,São Paulo,SP,,
+Ieremies Vieira da Fonseca Romero,Colégio Militar,Fortaleza,CE,,
+Rebeca da Silva Sousa,Farias Brito,Fortaleza,CE,,
+Louise Lara Martins Teixeira Santos,Farias Brito,Sobral,CE,,
+Mayara Chew Marinho,Militar Dom Pedro II,Brasilia,DF,,
+Thiago França Reges,Colégio Simbios,Goiania,GO,,
+Arianny Hellen de Oliveira Soares,Colégio Militar,Juiz de Fora,MG,,
+Jéssica Santos Soares,Instituto Dom Barreto,Teresina,PI,,
+Luís Augusto Oliveira Santos,Colégio Salesiano Sao Jose,Natal,RN,,
+Felippe M. de Almeida,Colégio Embraer,Botucatu,SP,,
+Mariana Hernandes da Silva Leme,Colégio Vital Brazil,São Paulo,SP,,
+Vitor Moura Juiz,Farias Brito,Fortaleza,CE,,
+Pedro Henrique Feitosa Fernandes,Colégio Modulo,Juazeiro do Norte,CE,,
+Milena Veras Leitão,Farias Brito,Sobral,CE,,
+Henrique Theodor S. Foerste,IFES,Vitoria,ES,,
+Carolina Kurotusch Canetttieri,Colégio Degraus,Goiania,GO,,
+Daniela Almeida Rocha,Colégio Militar,Juiz de Fora,MG,,
+Gabrielly dos Reis Macêdo,Escola Popular Madre Maria Villac,Teresina,PI,,
+Pedro Henrique Lopes Araújo,Instituto Dom Barreto,Teresina,PI,,
+Gabriela Altino Lamira,Objetivo do Litoral Unid VII,Guaruja,SP,,
+Isaac Ribeiro de Moura,Termomecanica,Sao Bernardo do Campo,SP,,
+Alex Passos de Melo E Silva,Poliedro Colégio,Sao Jose dos Campos,SP,,
+Luiz Fernando Birolli Delboni Neto,Objetivo Integrado,São Paulo,SP,,
+Mariana Vieira Neves,Colégio Olimpo,Palmas,TO,,
+Augusto Adler Freire Martins,Colégio Militar,Fortaleza,CE,,
+José Ferreira Leite Neto,Instituto Federal de Alagoas,Palmeira dos Indios,AL,,
+Pedro Abelardo Miranda de Sousa,Ari de Sa Cavalcante,Fortaleza,CE,,
+Davi Alex Lima Azevedo,Eeep Jaime Alencar de Oliveira,Fortaleza,CE,,
+Iesley Bezerra dos Santos,Paraíso Educacional,Juazeiro do Norte,CE,,
+Heitor Gama Ribeiro,IFES,Vitoria,ES,,
+Felipe Cassiano Escada,Colégio Fênix,Guaratingueta,SP,,
+Vitor de Sales Fontes,Objetivo do Litoral Unid VI,Santos,SP,,
+Nicolas Perez,Colégio Bandeirantes,São Paulo,SP,,
+Iuri Aster Perico Cunha,Objetivo Integrado,São Paulo,SP,,
+Eduardo Victor Vieira de Lima,Antares Colégio,Fortaleza,CE,,
+Yana Maria de Souza Leal,Antares Colégio,Fortaleza,CE,,
+Emanuel Cintra A Bezerra,Ari de Sa Cavalcante,Fortaleza,CE,,
+"",,,,,
+Ana Beatriz Bezerra Figueiredo Lima,Farias Brito,Fortaleza,CE,,
+Enzo Ribeiro de Miranda Vieira,Farias Brito,Fortaleza,CE,,
+Gabriella Maria Duarte Lemos,Escola Popular Madre Maria Villac,Teresina,PI,,
+Thomas Gomes Ferreira,Colégio Elite,Campinas,SP,,
+Guilherme Ferreira Celeste da Silva,Colégio Vital Brazil,São Paulo,SP,,
+Arthur Gabriel Cardoso da Ponte,Adalberto Valle,Manaus,AM,,
+Walfrisio Rodrigues de Macedo Neto,Antares Colégio,Fortaleza,CE,,
+Gabriel Sampaio Leite,Farias Brito,Fortaleza,CE,,
+Karla Ryany Alves da Silva,EEEP Amelia Figueiredo de Lavor,Iguatu,CE,,
+Rafael José Cavalcanti Licarião,Colégio Boa Viagem,Recife,PE,,
+Luis Felipe Ribeiro,Instituto Dom Barreto,Teresina,PI,,
+Gabriela Gomes Dantas,Centro de Educacao Integrada,Natal,RN,,
+Paulo Roberto Mendes dos Santos,Colégio Fantastico,Maceio,AL,,
+Auro Gabriel Carvalho de Aramides,7 de Setembro,Fortaleza,CE,,
+Ricardo Sammuel Moura Lima,Antares,Fortaleza,CE,,
+Caio de Santana Holanda,Antares,Fortaleza,CE,,
+Iury Perotti Ribeiro,Farias Brito,Fortaleza,CE,,
+Mayaha Bárbara O. do Nascimento Machado,Colégio Simbios,Goiania,GO,,
+Alcindo Li,Colégio Santa Maria,Recife,PE,,
+Yasmin Lima Rocha,Instituto Dom Barreto,Teresina,PI,,
+Kaio Danillo Veloso Leal,Instituto Dom Barreto,Teresina,PI,,
+Antonio Ermerson Coelho Oliveira,Farias Brito,Fortaleza,CE,,
+Bruno Vitor Barros Bandeira,Colégio Master,Fortaleza,CE,,
+Caio César D de Castro,Farias Brito,Fortaleza,CE,,
+Sarah Bernardo Soares,Farias Brito,Fortaleza,CE,,
+João Victor de Sousa,Farias Brito,Fortaleza,CE,,
+Ana Letícia Sousa de Oliveira,Farias Brito,Fortaleza,CE,,
+Felipe Moita Muniz,Farias Brito,Sobral,CE,,
+Ceci Antonia Andrade Julião,Farias Brito,Sobral,CE,,
+João Vitor Sarmento Rocha,Colégio Bernoulli,Belo Horizonte,MG,,
+Arthur Teodósio Borba,EREM Profa Benedita de M. Guerra,Macaparana,PE,,
+Dulfles Yágor Ribeiro Araújo,Colégio Militar,Recife,PE,,
+Luis Fernando Martins Rodrigues de Araujo,Colégio Lerote,Teresina,PI,,
+Vitoria Hashimoto Lima,Colégio Vital Brazil,São Paulo,SP,,
+Eric Zanardi,Santa Catarina,São Paulo,SP,,
+Laessa Almeida Viana,Colégio Olimpo,Palmas,TO,,
+Samuel Lima Bezerra,Farias Brito,Fortaleza,CE,,
+Francisco Hiago Silva de Assis,Farias Brito,Sobral,CE,,
+Pedro Yan Tomás Ananias,Farias Brito,Sobral,CE,,
+Nathan Dias Cunha,Farias Brito,Sobral,CE,,
+Emanuelle Lamas Rocha,Ifes-Campus Vitoria,Vitoria,ES,,
+Júlio César Cipriano Basílio,Cenecista Dr Jose Ferreira,Uberaba,MG,,
+João Henrique de Souza Coelho Régis,Plenus Colégio  E Curso,Petrolina,PE,,
+Marcelo Ávila Domingues,Parque Ecologico Inst. Educ.,Indaiatuba,SP,,
+Ana Julia Nascimento,Colégio Olimpo,Palmas,TO,,
+Isabel Alencar Tavares Colares Brasil,Antares,Fortaleza,CE,,
+Italo Henrique Ildefonso Monteiro Rodrigues,Farias Brito,Fortaleza,CE,,
+Vitoria Almeida Santos,EEEP Amelia Figueiredo de Lavor,Iguatu,CE,,
+Leidiane Silva Vieira,EEEP Amelia Figueiredo de Lavor,Iguatu,CE,,
+"",,,,,
+Thiago Pimentel Terra,Up Centro Educacional,Vila Velha,ES,,
+Marcelo de Castro Rehwagen,Santo Agostinho,Belo Horizonte,MG,,
+Rafael Dias Campos,Santo Agostinho,Belo Horizonte,MG,,
+Iago Alexandre Scherwitz dos Santos,Escola de Educacao Cativante,Rio Brilhante,MS,,
+Isabel Cristina Borges de Menezes,Centro Integrado Progresso,Campo Verde,MT,,
+Thalita da Rocha Bastos,E E I F M Tenente Rego Barros,Belem,PA,,
+Julliana Emily Matos E Silva,Anbeas - Nsa Sra das Graças,Parnaiba,PI,,
+Matheus Araújo da Silva,Anbeas - Nsa Sra das Graças,Parnaiba,PI,,
+Artur Serafim Souza Lima,Colégio Militar,Curitiba,PR,,
+Pedro Henrique Simões Moreira de Araújo,Cassiano Ricardo,Sao Jose dos Campos,SP,,
+Alejandra Cecília Urquieta Pinaya,Poliedro,Sao Jose dos Campos,SP,,
+Iago Baroni Rocha,Colégio Militar,Belo Horizonte,MG,,
+Davi Weyne Linhares,Antares,Fortaleza,CE,,
+Gutemberg Ruiz de Almada Maia,Colégio Militar,Fortaleza,CE,,
+João Victor Fernandes Braga,Farias Brito,Fortaleza,CE,,
+Ítalo Henrique Siebra Honório,Paraíso Educacional,Juazeiro do Norte,CE,,
+Gabriel Bezerra Tavares,Farias Brito,Sobral,CE,,
+Laura Salomão Oliveira,Colégio Simbios,Goiania,GO,,
+Rafael Lisboa Prudente,Centro de Excelencia Master,Aracaju,SE,,
+Pedro Jun Kato,Singular,Santo Andre,SP,,
+Lucca Accioly Silva,Master,Fortaleza,CE,,
+Francisco Danilo da Silva Gomes,Colégio Modulo,Juazeiro do Norte,CE,,
+Davi César Gama Maia,Paraíso Educacional,Juazeiro do Norte,CE,,
+Vinícius de Oliveira Betim,Villa Lobos,Amparo,SP,,
+Nicolas Yamada Tanigava,Mater Amabilis,Guarulhos,SP,,
+Leonardo Araujo Lion,Mater Amabilis,Guarulhos,SP,,
+Raquel Bandeira Maia de Maria,Antares Colégio,Fortaleza,CE,,
+Aloysio Teixeira Férrer Neto,Colégio Militar,Fortaleza,CE,,
+Maria Cibele Lima Pontes,E E F M  Vale do Curtume,Nova Russas,CE,,
+Victor Hugo Alves Diniz,Militar Dom Pedro II,Brasilia,DF,,
+Júlia Cordeiro Gusmão,Colégio Simbios,Goiania,GO,,
+Thaís Harumi de Hamada,Colégio Santa Maria,Betim,MG,,
+César Augusto Neumann Ribeiro,Col Vic Nossa Sra das Gracas,Pato Branco,PR,,
+Matheus Steigenberg Populim,Colégio Bom Jesus Santo Antonio,Rolandia,PR,,
+Celina Huey Oshiro,Colégio Bandeirantes,São Paulo,SP,,
+Jairo Roberto Saldanha Rodrigues,Colégio Bandeirantes,São Paulo,SP,,
+João Pedro Navarro Ribeiro,Antares Colégio,Fortaleza,CE,,
+Alana Maria Prado,Farias Brito,Fortaleza,CE,,
+Lara Rayanna Ventura,Farias Brito,Fortaleza,CE,,
+Marcus Vinícius Holanda de Lima,Farias Brito,Fortaleza,CE,,
+Felipe de Melo Santana,Farias Brito,Fortaleza,CE,,
+Rafael Braga Ferreira,Colégio Educallis,Sao Luis,MA,,
+Giovanni Girotto Ribeiro,Colégio Cenecista Dr Jose Ferreira,Uberaba,MG,,
+Clovis Alves de Carvalho Neto,Colégio Santa Maria,Recife,PE,,
+Pedro Lucas Savedra Mazetti,Centro Educacional Objetivo,Porto Velho,RO,,
+Mariana Carvalho Reis,Villa Lobos Colégio,Amparo,SP,,
+Augusto de Mello Stedile,Parque Ecologico Inst. Educ.,Indaiatuba,SP,,
+Iago Schreiner,Parque Ecologico Inst. Educ.,Indaiatuba,SP,,
+Mateus Miotti Cunha,Termomecanica,Sao Bernardo do Campo,SP,,
+"",,,,,
+Taylor Barreto Pinheinro,7 de Setembro,Fortaleza,CE,,
+Guilherme Campos Silva,Antares,Fortaleza,CE,,
+Reinaldo Gurgel Leite Viana,Antares,Fortaleza,CE,,
+Júlia Freire Belmino da Costa,Ari de Sa Cavalcante,Fortaleza,CE,,
+Matheus Silva de Freitas,Colégio Teleyos,Fortaleza,CE,,
+Daniel Lucas Pinho Feitosa Couto,Farias Brito,Fortaleza,CE,,
+Nadson Luiz Viana de Sena,Farias Brito,Fortaleza,CE,,
+Luiz Álvaro da Silva Leal Filho,Paraíso Educacional,Juazeiro do Norte,CE,,
+Rebeca Miguel de Oliveira,Colégio Simbios,Goiania,GO,,
+Karen Francielly Silva de Farias,Grupo Genese de Ensino,Recife,PE,,
+Lucas Cordeiro Joakinson,Colégio Militar,Curitiba,PR,,
+Oscar Fogaça de Paula,Colégio Embraer,Botucatu,SP,,
+Pedro Ítalo de Sousa Cardoso,Ari de Sa Cavalcante,Fortaleza,CE,,
+Caroline Nobre de Souza Alves,Colégio Teleyos,Fortaleza,CE,,
+Camila Narumi Yano Lopes,Colégio Degraus,Goiania,GO,,
+Higor Rafhael Faria E Sousa,Ee Messias Pedreiro,Uberlandia,MG,,
+João Italo Araujo Pereira,Anbeas - Nsa Sra das Graças,Parnaiba,PI,,
+Jade Jéfse Lima E Silva Gonçalves,Master,Fortaleza,CE,,
+Adrielle Domingos dos Santos,"Inst, Federal do Triangulo Mineiro",Ituiutaba,MG,,
+Eduardo Tatsumi Ando Utiyama,Termomecanica,Sao Bernardo do Campo,SP,,
+Victor Kazuo Inoue,Objetivo Vergueiro,São Paulo,SP,,
+Marina dos Santos Carlos,Colégio Olimpo,Palmas,TO,,
+Heitor Barbosa Abreu,7 de Setembro,Fortaleza,CE,,
+Leon Rodrigues Aragão,Antares,Fortaleza,CE,,
+Victor Parente Vilela Sales,Santo Inacio,Fortaleza,CE,,
+Giovanni Machado Ferreira,Colégio Êxito do Cariri,Juazeiro do Norte,CE,,
+Mariana Bessa Bezerra Almeida,Farias Brito,Sobral,CE,,
+Alana Helen dos Santos Matos,Colégio Militar,Belo Horizonte,MG,,
+Íris Lavínia Carvalho Barbosa,Centro de Excelencia Master,Aracaju,SE,,
+Jamille Borges Reis,Centro de Excelencia Master,Aracaju,SE,,
+Lucas Duboc de A. Corrêa,Instituto Alpha Lumen,Sao Jose dos Campos,SP,,
+Luiz Rafael Castro Lopes de Souza,Objetivo Unidade Cantareira,São Paulo,SP,,
+Isadora Ximenes Branco,Antares,Fortaleza,CE,,
+Sarah Guimarães Portela,Antares,Fortaleza,CE,,
+Matheus Santana Tavares,Antares,Fortaleza,CE,,
+Guilherme Camurça Lima,Farias Brito,Fortaleza,CE,,
+Gabriela Rodrigues de Almeida,Santa Isabel,Fortaleza,CE,,
+João Pedro Hemerly Moreira Mello Pereira,IFES-Campus Vitoria,Vitoria,ES,,
+Mateus Estevão Duque de Souza,Colégio Raiz,Uba,MG,,
+Allan C. de Freitas Borges,Colégio Pedro II Tijuca II,Rio de Janeiro,RJ,,
+Pedro Loffredo Neto,Parque Ecologico Inst. Educ.,Indaiatuba,SP,,
+André Sabatino Barão,Imperatriz Leopoldina,São Paulo,SP,,
+Matheus Mesquita Alves,Votuporanguense de Ensino Escola,Votuporanga,SP,,
+Beatriz Dias Pinheiro,Colégio Militar,Belo Horizonte,MG,,
+Anibal Bezerra de Castro,E E I F M Tenente Rego Barros,Belem,PA,,
+Fernanda Carolina Silva da Cunha,E E I F M Tenente Rego Barros,Belem,PA,,
+Vinicios Silva Moreira Santos,Escola Técnica Estadual Jaraguá,São Paulo,SP,,
+Victor Ferreira Caruzzo,Objetivo Unidade Cantareira,São Paulo,SP,,
+Jady Vasconcelos Araújo,Instituto Imaculada Conceicao,Bela Cruz,CE,,
+"",,,,,
+Matheus Machado Talone,Colégio Simbios,Goiania,GO,,
+Gustavo Cestari Morales,Parque Ecologico Inst. Educ.,Indaiatuba,SP,,
+Manuela Roque Alves,Antares,Fortaleza,CE,,
+José Airton Caldas Moreira Filho,Farias Brito,Fortaleza,CE,,
+Miguel de Moura Gasbarro,Franciscano Santo Antônio,Curvelo,MG,,
+Vitória Freire Lima,Plenus Colégio  E Curso,Petrolina,PE,,
+Liandra Karine de Souza Almondes,Instituto Federal do Piaui,Picos,PI,,
+Maria Eduarda Torança Garcia Leal,Colégio Dom Feliciano,Gravatai,RS,,
+Larissa Yumi Pereira Otani,Cassiano Ricardo,Sao Jose dos Campos,SP,,
+Letícia da Silva Macedo Alves,Cassiano Ricardo,Sao Jose dos Campos,SP,,
+André Acetto Tenório,Centro Educacional Inspire,Sao Jose dos Campos,SP,,
+Giulia Aguiar Fernandes,Antares,Fortaleza,CE,,
+Tayssa Batalha dos Santos,Isaias Vasconcelos,Iranduba,AM,,
+Bianca Sobreira Frossard de Lucena,Antares,Fortaleza,CE,,
+Igor Gabriel Menezes de Assis,Antares,Fortaleza,CE,,
+Lucas de Norões Milfont Almeida,Antares,Fortaleza,CE,,
+Antonio Samuel Lima Evangelista,Antares,Fortaleza,CE,,
+Laura Maia Rabelo Cunha,Antares,Fortaleza,CE,,
+Victor Julião de Alencar,Antares,Fortaleza,CE,,
+George Henrique Araújo Peixoto Filho,Antares,Fortaleza,CE,,
+Ian Medeiros da Ponte,Antares,Fortaleza,CE,,
+Davi Salustiano Freire Veras,Ari de Sa Cavalcante,Fortaleza,CE,,
+Luana Herculano Bezerra,Colégio Teleyos,Fortaleza,CE,,
+Larissa Silva Martins,Farias Brito,Fortaleza,CE,,
+João Bruno Barreto de Pontes Diniz,Farias Brito,Fortaleza,CE,,
+Otílio Arcanjo Sabino,Santo Inacio,Fortaleza,CE,,
+Vanessa Ferreira Barroso,Colégio Educallis,Sao Luis,MA,,
+Davi Lage Borges Souza,Santo Agostinho,Belo Horizonte,MG,,
+Raiane de Oliveira Coelho de Andrade,Escola Estadual Mariana de Paiva,Guidoval,MG,,
+Gustavo de Almeida Neves Rodrigues,Fundação Bradesco,Cuiaba,MT,,
+Isis de Melo Alvino,E E I F M Tenente Rego Barros,Belem,PA,,
+Raí de Almeida Gomes,E E I F M Tenente Rego Barros,Belem,PA,,
+Rodrigo Abucáter de Oliveira Cavalcanti,Colégio Boa Viagem Ltda,Recife,PE,,
+João Pedro Soares Diniz Couto,Anbeas - Nsa Sra das Graças,Parnaiba,PI,,
+Maria Isabel Bezerra Monteiro,Centro de Educacao Integrada,Natal,RN,,
+Luan Dimer Liscano,Colégio Dom Feliciano,Gravatai,RS,,
+Guilherme de Oliveira,Colégio Embraer,Botucatu,SP,,
+Luis Felipe R. M. Pedroso,Colégio Embraer,Botucatu,SP,,
+Victor Jhuan Guedes Luiz,Colégio Objetivo Mairiporã,Mairipora,SP,,
+Julia Ferreira Campos,Singular,Santo Andre,SP,,
+Agatha Giovanna Soares da Silva,Objetivo Unid Paz,São Paulo,SP,,
+Sabrina Vinci Marques Pontes,Colégio Teleyos,Fortaleza,CE,,
+Lucas Alves Miranda Albuquerque,Antares,Fortaleza,CE,,
+Jose Ernandes Gadelha Neto,Farias Brito,Fortaleza,CE,,
+Larissa de Oliveira Welter,Santa Isabel,Fortaleza,CE,,
+Larissa Pereira Santos,Ceefmti Daniel Comboni,Ecoporanga,ES,,
+Jonathan Vinicius da Silva Casarim,E E Senador Levindo Coelho,Uba,MG,,
+Arthur de Morais M. Faria,Colégio Tiradentes Pmmg,Uberaba,MG,,
+Ana Carolina de Paula Santos,Ee Messias Pedreiro,Uberlandia,MG,,
+"",,,,,
+Kemelly Ágata de Oliveira Saldanha,E E I F M Tenente Rego Barros,Belem,PA,,
+Ana Beatriz Moreira Feitosa de Lima,IFRN Cidade Alta,Natal,RN,,
+Pedro Vitor das Neves Ramos,Centro Educacional Objetivo,Porto Velho,RO,,
+Éric Pinto Dias,Colégio Dom Feliciano,Gravatai,RS,,
+Maria Antonia Mitestainer Morosi,Villa Lobos,Amparo,SP,,
+Luisa Eduarda Lous Jacob,Instituto Alpha Lumen,Sao Jose dos Campos,SP,,
+Júlia Andrade Braz,Objetivo Vergueiro,São Paulo,SP,,
+Ana Carolina Aragão da Ponte,Antares,Fortaleza,CE,,
+Dayane Karem Rocha,Imaculada Conceicao Instituto,Bela Cruz,CE,,
+Rodrigo Campos Fontenele,Antares Colégio,Fortaleza,CE,,
+Bárbara Cristina Cutrim Barros,Antares Colégio,Fortaleza,CE,,
+Isaac Amorim de Oliveira,Antares Colégio,Fortaleza,CE,,
+Alexandre Sales Ripardo Ribeiro,Ari de Sa Cavalcante,Fortaleza,CE,,
+Leandro Dantas Rolim,Ari de Sa Cavalcante,Fortaleza,CE,,
+Jennyfer Kauanne de Barros,Colégio Militar,Fortaleza,CE,,
+Thaís Lima Soares,Colégio Teleyos,Fortaleza,CE,,
+Ingrid Vitória de Sousa Facundo,Colégio Teleyos,Fortaleza,CE,,
+Bruna Gabriella Santos de Araújo,Eeep Jaime Alencar de Oliveira,Fortaleza,CE,,
+Nicolly Maria Amancio Gomes,Farias Brito,Sobral,CE,,
+Jasiel Pereira de Souza,Ceefmti Daniel Comboni,Ecoporanga,ES,,
+André Fernando Alves de Oliveira,Escola Sesi Jundiaí,Anapolis,GO,,
+Bárbara Martins da Matta Lopes,Colégio Santa Maria,Betim,MG,,
+Guilherme Henrique Pereira Franco Martins,Insti. Federal do Triangulo Mineiro,Ituiutaba,MG,,
+Mariah Norton,Centro Integrado Progresso,Campo Verde,MT,,
+Antônio Queiroz,Colégio Eminente,Recife,PE,,
+Mateus Lucas Neves Camelo,Colégio Militar,Recife,PE,,
+Vinícius de Souza Gonçalves,Objetivo do Litoral Unid II,Santos,SP,,
+Sabrina Yuri Yoshikawa,Prof. Nelson Nascimento Monteiro,Sao Jose dos Campos,SP,,
+Pedro Henrique David,Objetivo Paulista,São Paulo,SP,,
+Eduarda Figueredo Ribas,Colégio Integral,Salvador,BA,,
+Mariana de Oliveira Tenório,Antares,Fortaleza,CE,,
+Mariana Milfont Rangel Lima,Antares,Fortaleza,CE,,
+João Victor Cavalcante Freire,Antares,Fortaleza,CE,,
+Hélen de Almeida Reis Bezerra,Paraíso Educacional,Juazeiro do Norte,CE,,
+Letícia Duarte Monteiro da Costa,Colégio Militar,Juiz de Fora,MG,,
+Giulia Barbieri Quagliano,Objetivo Unidade Cantareira,São Paulo,SP,,
+João Vitor Cavalcante de Lira,Colégio Cristo Rei,Maceio,AL,,
+Wessla Rayane Silva de Andrade,Colégio Dinamico,Maceio,AL,,
+Yolanda Nara Frutuoso dos Santos,Santo Antonio,Barbalha,CE,,
+João Víctor dos Santos,Antares,Fortaleza,CE,,
+Raissa Ferreira Queiroz,Ari de Sá Cavalcante,Fortaleza,CE,,
+Erisson Jeliel Mendes Pereira,Farias Brito,Fortaleza,CE,,
+Viktor Milton Souto Veras,Santa Isabel,Fortaleza,CE,,
+Marina Rodrigues Martins,Colégio Militar,Belo Horizonte,MG,,
+Letícia Marinho Fernandes,Colégio Militar,Belo Horizonte,MG,,
+Carlos Eduardo Moreira,Centro Integrado Progresso,Campo Verde,MT,,
+Matheus da Silva Lopes,C A A Carlos Azevedo de Menezes,Camaragibe,PE,,
+Laura Beatriz Silva de Oliveira Lima,Grupo Genese de Ensino,Recife,PE,,
+Ananda de Almeida Rocha Barreira,Antares,Fortaleza,CE,,
+"",,,,,
+Amanda Michelly de Oliveira Balbino,Colégio Dinamico,Maceio,AL,,
+Marinethe de Barros Oliveira,Colégio Dinamico,Maceio,AL,,
+Emerson Jonas Ferreira Fonseca,Instituto Federal de Alagoas,Palmeira dos Indios,AL,,
+Francisco Mauro de Oliveira dos Santos,Isaias Vasconcelos,Iranduba,AM,,
+Mikael Carvalho da Silva,Isaias Vasconcelos,Iranduba,AM,,
+Cleomara Belarmino da Silva,Isaias Vasconcelos,Iranduba,AM,,
+Rangel Santos de Almeida,Isaias Vasconcelos,Iranduba,AM,,
+Carla Paloma Rodrigues da Mota,EEEP Luiz  Gonzaga Fonseca Mota,Amontada,CE,,
+Bianca Albuquerque Bernardino,Imaculada Conceicao Instituto,Bela Cruz,CE,,
+Aimê Fraga Lima,Antares,Fortaleza,CE,,
+Davi Pontes da Silva,Antares,Fortaleza,CE,,
+Levi Kohei Oliveira Shinmon,Antares,Fortaleza,CE,,
+Lucas Menezes Rabelo,Antares,Fortaleza,CE,,
+Sarah Queiroz Cialini,Antares,Fortaleza,CE,,
+Thiago Luiz Alves Costa,Antares,Fortaleza,CE,,
+Victória Regina Holanda Albino,Antares,Fortaleza,CE,,
+Lucas Cavalcante dos Santos,Ari de Sá Cavalcante,Fortaleza,CE,,
+Francisco Fenelon Rodrigues Pinheiro Neto,Colégio Teleyos,Fortaleza,CE,,
+Caio Vinicius da Silva Freitas,Colégio Teleyos,Fortaleza,CE,,
+Lucas Mendes B. dos Santos,Colégio Teleyos,Fortaleza,CE,,
+Rayla de Sousa Rodrigues,Colégio Teleyos,Fortaleza,CE,,
+Shelda Guimarães  Santos,Colégio Teleyos,Fortaleza,CE,,
+Vitor Emanuel Feitosa Barroso,Colégio Teleyos,Fortaleza,CE,,
+Gabriel de Melo Lopes,EEEP Jaime Alencar de Oliveira,Fortaleza,CE,,
+Alfredo Bastos de Alencar Filho,Farias Brito,Fortaleza,CE,,
+Paulo Victor Maia Borges,Master,Fortaleza,CE,,
+Arion Mathias Farias de Martins Oliveira,Santo Inacio,Fortaleza,CE,,
+Marco Aurélio Cardoso Gomes,Escola Sesi Jundiaí,Anapolis,GO,,
+Bárbara Júlia Coelho da Silva,Colégio da Polícia Militar de Goiás,Goiania,GO,,
+Guilherme Carvalho Siqueira,Colégio Simbios,Goiania,GO,,
+Gabriel Ângelo Silva Meireles,Complexo Educacional Dom Bosco,Imperatriz,MA,,
+Pedro Aiala Barroso de Souza,Colégio Militar,Belo Horizonte,MG,,
+Lauren Jaqueline Lima Rocha,Colégio Militar,Belo Horizonte,MG,,
+Isabelle Miríade Soares,Colégio Santa Maria,Betim,MG,,
+Marcus Afonso Araújo Junior,Colégio Santa Maria,Betim,MG,,
+Ana Carolina Amorim Mascarenhas,Colégio Franciscano Santo Antônio,Curvelo,MG,,
+Patrick Campos da Rocha,E E Senador Levindo Coelho,Uba,MG,,
+Guilherme Gheller Rocha,Escola de Educacao Cativante,Rio Brilhante,MS,,
+Valdênia Bezerra Rodrigues da Silva,Colégio Marista Pio X,Joao Pessoa,PB,,
+Jaázyel Silva Cavalcanti Moura,EREM Profa Benedita de M. Guerra,Macaparana,PE,,
+Anna Carolyna Moura de Oliveira,EREM Profa Benedita de M. Guerra,Macaparana,PE,,
+Isabel Gonçalves Lima,Colégio Boa Viagem Ltda,Recife,PE,,
+Osias Nogueira de Carvalho,Instituto Federal do Piaui,Picos,PI,,
+Gustavo Victor Alves da Silva,Colégio Novo Éden,Curitiba,PR,,
+João Miguel Leitão,COC Semeador,Foz do Iguacu,PR,,
+Giovanna Arend Barichello,IFRN Cidade Alta,Natal,RN,,
+Maria Clara Moreira Lourenço Brito,IFRO,Porto Velho,RO,,
+Maria Rita Medeiros Flôr,IFRO,Porto Velho,RO,,
+Alessandra Gomes Coelho de Almeida,Centro de Excelencia Master,Aracaju,SE,,
+"",,,,,
+Mariana Pagani Vereda,Colégio Objetivo Mairiporã,Mairipora,SP,,
+Renan Gomes Carneiro de Freitas,Etec de Monte Mor,Monte Mor,SP,,
+Vitor Zanini Germano,Sesi 299 Centro Educacional,Valinhos,SP,,
+Isabela  Bronzatti,Sesi 299 Centro Educacional,Valinhos,SP,,
+Clara Santos Brito,Colégio Integral,Salvador,BA,,
+Natanael de Sousa Azevedo,Antares,Fortaleza,CE,,
+João Victor Boucinha Bezerra de Menezes,Antares,Fortaleza,CE,,
+Wendel da Costa Marques,Antares,Fortaleza,CE,,
+Rayan Victor Santos de Freitas,Colégio Teleyos,Fortaleza,CE,,
+Carlos Juan Maia Brasil Barros,Farias Brito,Fortaleza,CE,,
+Caroline Alves Madeira,E E F M  Vale do Curtume,Nova Russas,CE,,
+Eva Vieira da Costa,Eeep Maria Eudes Bezerra Veras,Novo Oriente,CE,,
+Cádmo Silton Andrade Portella Filho,Farias Brito,Sobral,CE,,
+Layssa Linhares Menegotto,Farias Brito,Sobral,CE,,
+Agda Amelia de Jesus Cunha,Colégio Educallis,Sao Luis,MA,,
+Fernanda Nogueira Silva,Colégio Tiradentes Pmmg,Uberaba,MG,,
+Gustavo Fernando Estevão Batista,Colégio Tiradentes Pmmg,Uberaba,MG,,
+Glendha Guimarães Terra,Colégio Tiradentes Pmmg,Uberaba,MG,,
+Vitória Bajluk,E E I F M Tenente Rego Barros,Belem,PA,,
+Paulo Vinícius Alves da Silva Macaparana,EREM Profa Benedita de M. Guerra,Macaparana,PE,,
+Ânderson Sousa Nogueira,U E Embaixador Espedito Resende,Piripiri,PI,,
+Ingrid da Silva Araujo,Colégio Dom Feliciano,Gravatai,RS,,
+Gabriel Pita Rios,Objetivo Unidade Cantareira,São Paulo,SP,,
